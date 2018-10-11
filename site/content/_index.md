@@ -7,7 +7,7 @@ blurb:
   text: >
     We think that to build a strong vegan economy we need to connect and empower
     vegan businesses.
-     We want to promote vegan entrepreneurship. We bring together vegan companies and businesses so they can easily find each other and cooperate. 
+     We want to promote vegan entrepreneurship and bring together vegan companies so they can easily find each other and cooperate. 
     We want plant based products to be easy to find and accessible, so we
     brought them all together into one place. We want to promote vegan
     lifestyle. That’s why we created a guide that will lead you to all the vegan

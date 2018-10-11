@@ -21,19 +21,13 @@ blurb:
     problems.
 intro:
   heading: What is Veganbase?
-  text: >-
+  text: >
     Veganbase is an online community discovering, sharing and discussing the
     world’s best vegan products, places, services, businesses and lifestyle.
 
-    At Veganbase you can easily discover vegan products.
+    At Veganbase you can easily discover vegan products and
 
-    You can promote your vegan business and organisation
-
-    Together we can help and inspire others to follow a vegan lifestyle
-
-    Join us and help us building a vegan community platform for a better future.
-
-    Become a member, add new products and places and collect points.
+    you can promote your vegan business and organisation
 products:
   - {}
 values:

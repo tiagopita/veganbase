@@ -20,7 +20,7 @@ blurb:
 intro:
   heading: What is Veganbase?
   text: >
-    Veganbase is an online community discovering, sharing and discussing the
+    Veganbase is a social platform discovering, sharing and discussing the
     world’s best vegan products, services, businesses and lifestyle.
 
     At Veganbase you can easily discover vegan products and places around the

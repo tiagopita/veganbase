@@ -57,12 +57,10 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: ''
-    quote: >-
-      We believe that the future of the world is vegan. We want to make it
-      happen as soon as possible.
-  - author: 'Bruno Saki '
-    quote: ''
+  - author: Bruno
+    quote: We believe that the future of the world is vegan.
+  - author: 'Saki '
+    quote: We want to make it happen as soon as possible.
 full_image: /img/logo2.png
 pricing:
   heading: ''

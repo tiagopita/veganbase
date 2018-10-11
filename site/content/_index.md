@@ -5,8 +5,8 @@ image: /img/cow-3678457_1920.jpg
 blurb:
   heading: Why did we build Veganbase?
   text: >
-    We aim to build a strong vegan economy by connecting and empowering vegan
-    businesses.
+    We think that to build a strong vegan economy we need to connect and empower
+    vegan businesses.
      We want to promote vegan entrepreneurship. We bring together vegan companies and businesses so they can easily find each other and cooperate. 
     We want plant based products to be easy to find and accessible, so we
     brought them all together into one place. We want to promote vegan

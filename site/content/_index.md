@@ -26,8 +26,8 @@ intro:
     At Veganbase you can easily discover vegan products and places around the
     world, you can promote your vegan business and organisation.
 
-    Our lifestyle magazine will consist of articles recommended by our
-    community. Everything you need to know about veganism in one place!
+    Lifestyle magazine with articles recommended by our community. Everything
+    you need to know about vegan lifestyle in one place!
 products:
   - {}
 values:

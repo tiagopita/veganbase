@@ -8,7 +8,7 @@ intro:
     - image: /img/sparrow-3698477_1920.jpg
       text: |
         Tiago
-
+        </br>
         Founder. Vegan warrior. Creator, designer and experienced entrepreneur
         making his vegan startup dream come true. Favourite animal - donkey.
         #fakemeat #soy #food #minimalism #simple
@@ -35,7 +35,7 @@ intro:
 
         Business development strategist, fundraising expert and advisor.
         Veganism enthusiast. Favourite animal - elephant. 
-    - {}
+    - text: ''
   heading: ''
   description: |+
 

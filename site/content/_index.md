@@ -27,8 +27,8 @@ intro:
 
     you can promote your vegan business and organisation.
 
-    We are ceated a guide that will lead you to all the vegan places around the
-    world and lifestyle magazine with articles created by our community.
+    We are creating a guide that will lead you to all the vegan places around
+    the world and a lifestyle magazine with articles created by our community.
 products:
   - {}
 values:

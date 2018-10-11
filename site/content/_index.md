@@ -12,9 +12,9 @@ blurb:
     so they can easily find each other and cooperate.
 
     We want plant based products to be easy to find and accessible, so we
-    brought them all together into one place. Promoting a vegan lifestyleWe care
-    about the planet we live in. We believe that making veganism mainstream will
-    help to address the world’s biggest social and environmental problems.
+    brought them all together into one place. We care about the planet we live
+    in. We believe that making veganism mainstream will help to address the
+    world’s biggest social and environmental problems.
 intro:
   heading: What is Veganbase?
   text: >

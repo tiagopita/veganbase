@@ -1,6 +1,6 @@
 ---
 title: Team
-image: /img/advice-advise-advisor-7096.jpg
+image: /img/sparrows-2763083_1920.jpg
 heading: Veganbase is created for you by a group of passionate vegan enthusiasts
 description: Meet our team!
 intro:

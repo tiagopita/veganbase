@@ -9,8 +9,8 @@ blurb:
     mainstream will help to address the world’s biggest social and environmental
     problems.
 
-    We think that to build a strong vegan economy we need to connect and empower
-    vegan businesses.
+    To build a strong vegan economy we need to connect and empower vegan
+    businesses.
 
     We want to promote vegan entrepreneurship and bring together vegan companies
     so they can easily find each other and cooperate.

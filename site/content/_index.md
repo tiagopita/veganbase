@@ -12,13 +12,9 @@ blurb:
     so they can easily find each other and cooperate.
 
     We want plant based products to be easy to find and accessible, so we
-    brought them all together into one place. Promoting a vegan lifestyle we
-    created a guide that will lead you to all the vegan places around the world
-    and lifestyle magazine with articles created by our community.
-
-    We care about the planet we live in. We believe that making veganism
-    mainstream will help to address the world’s biggest social and environmental
-    problems.
+    brought them all together into one place. Promoting a vegan lifestyleWe care
+    about the planet we live in. We believe that making veganism mainstream will
+    help to address the world’s biggest social and environmental problems.
 intro:
   heading: What is Veganbase?
   text: >
@@ -27,7 +23,10 @@ intro:
 
     At Veganbase you can easily discover vegan products and
 
-    you can promote your vegan business and organisation
+    you can promote your vegan business and organisation.
+
+    We are ceated a guide that will lead you to all the vegan places around the
+    world and lifestyle magazine with articles created by our community.
 products:
   - {}
 values:

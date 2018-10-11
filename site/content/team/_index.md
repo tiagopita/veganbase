@@ -57,15 +57,13 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: ''
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      We believe that the future of the world is vegan. We want to make it
+      happen as soon as possible.
+  - author: 'Bruno Saki '
+    quote: ''
+full_image: /img/logo2.png
 pricing:
   heading: ''
   description: ''
@@ -75,19 +73,15 @@ pricing:
         - ''
       plan: ''
       price: ''
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+    - description: ''
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - ''
+      plan: ''
+      price: ''
+    - description: ''
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - ''
+      plan: ''
+      price: ''
 ---
 

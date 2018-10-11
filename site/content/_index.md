@@ -22,10 +22,10 @@ intro:
   text: >
     Veganbase is a social platform discussing vegan lifestyle, discovering and
     sharing the world’s best vegan products, services. At Veganbase you can
-    easily find vegan products and places around you as well as you can promote
-    your vegan business and organisation. Read our lifestyle magazine with
-    articles recommended by our community. Everything you need to know about
-    vegan lifestyle in one place!
+    easily find vegan products and places around you as well as promote your
+    vegan business and organisation. Read our lifestyle magazine with articles
+    recommended by our community. Everything you need to know about vegan
+    lifestyle is now in one place!
 products:
   - {}
 values:

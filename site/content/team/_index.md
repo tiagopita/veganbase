@@ -1,6 +1,6 @@
 ---
 title: Team
-image: /img/sparrows-2763083_1920.jpg
+image: /img/sparrows-2759978_1920.jpg
 heading: Veganbase is created for you by a group of passionate vegan enthusiasts
 description: Meet our team!
 intro:
@@ -57,7 +57,7 @@ testimonials:
     quote: We believe that the future of the world is vegan.
   - author: 'Saki '
     quote: We want to make it happen as soon as possible.
-full_image: /img/sparrows-2759978_1920.jpg
+full_image: /img/sparrows-2763083_1920.jpg
 pricing:
   heading: ''
   description: ''

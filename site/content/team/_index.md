@@ -1,6 +1,6 @@
 ---
 title: Team
-image: /img/sparrows-2759978_1920.jpg
+image: /img/sparrows-797995_1920.jpg
 heading: Veganbase is created for you by a group of passionate vegan enthusiasts
 description: Meet our team!
 intro:
@@ -44,14 +44,14 @@ main:
   heading: ''
   description: ''
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: ''
     image: ''
   image2:
     alt: ''
     image: ''
   image3:
     alt: ''
-    image: ''
+    image: /img/sparrows-2759978_1920.jpg
 testimonials:
   - author: Bruno
     quote: We believe that the future of the world is vegan.

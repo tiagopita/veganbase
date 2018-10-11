@@ -9,13 +9,13 @@ blurb:
     mainstream will help to address the world’s biggest social and environmental
     problems.
 
-    To build a strong vegan economy we need to connect and empower vegan
-    businesses.
+    To build a strong vegan economy we need to connect and empower vegans in
+    their business initiatives.
 
     At Veganbase we want to promote vegan entrepreneurship and bring together
-    vegan companies so they can easily find each other and cooperate.
+    vegan companies so they can easily cooperate.
 
-    We want plant based products to be easy to find and accessible, so we
+    We want plant based products to be accessible and easy to find, so we
     brought them all together into one place. 
 intro:
   heading: What is Veganbase?

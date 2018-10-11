@@ -1,7 +1,7 @@
 ---
 title: The social Vegan platform
 subtitle: Where vegans empower each other
-image: /img/cow-3678457_1920.jpg
+image: /img/sparrows-2759978_1920.jpg
 blurb:
   heading: Why did we build Veganbase?
   text: >-

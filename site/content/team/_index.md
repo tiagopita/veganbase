@@ -5,21 +5,21 @@ heading: Veganbase is created for you by a group of passionate vegan enthusiasts
 description: Meet our team!
 intro:
   blurbs:
-    - image: /img/about-direct-sourcing.jpg
+    - image: /img/sparrow-3698477_1920.jpg
       text: |
         Tiago
 
         Founder. Vegan warrior. Creator, designer and experienced entrepreneur
         making his vegan startup dream come true. Favourite animal - donkey.
         #fakemeat #soy #food #minimalism #simple
-    - image: /img/cow-3678457_1920.jpg
+    - image: /img/rottweiler-869018_1920.jpg
       text: |
         Agi
 
         Founder. Vegan warrior. Life experienced veganism expert and gospeler.
         Favourite animal - elephant. 
         #animals #books #cooking #nature #simple
-    - image: /img/about-sustainable-farming.jpg
+    - image: /img/axolotl-2193331_1920.jpg
       text: >
         Vince
 
@@ -28,7 +28,7 @@ intro:
         vegan world. Favourite animal - axolotl.
 
         #rock #gamer #philosopher #freedom #mind
-    - image: /img/blog-index.jpg
+    - image: /img/frog-540812_1920.jpg
       text: >
         Eduardo 
 

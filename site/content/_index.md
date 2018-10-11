@@ -13,7 +13,7 @@ blurb:
     their business initiatives.
 
     At Veganbase we want to promote vegan entrepreneurship and bring together
-    vegan companies so they can easily cooperate.
+    vegan companies so they can cooperate with each other.
 
     We want plant based products to be accessible and easy to find, so we
     brought them all together into one place. 

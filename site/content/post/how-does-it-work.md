@@ -1,6 +1,6 @@
 ---
 title: How does it work?
-date: 2018-10-11T17:47:56.691Z
+date: 2018-10-01T17:47:56.691Z
 description: >-
   You can add your favourite products or places to Veganbase and each time one
   is published, you will be awarded some Veganbase points.

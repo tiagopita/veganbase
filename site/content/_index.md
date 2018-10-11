@@ -4,7 +4,11 @@ subtitle: Where vegans empower each other
 image: /img/cow-3678457_1920.jpg
 blurb:
   heading: Why did we build Veganbase?
-  text: >
+  text: >-
+    We care about the planet we live in. We believe that making veganism
+    mainstream will help to address the world’s biggest social and environmental
+    problems.
+
     We think that to build a strong vegan economy we need to connect and empower
     vegan businesses.
 
@@ -12,9 +16,7 @@ blurb:
     so they can easily find each other and cooperate.
 
     We want plant based products to be easy to find and accessible, so we
-    brought them all together into one place. We care about the planet we live
-    in. We believe that making veganism mainstream will help to address the
-    world’s biggest social and environmental problems.
+    brought them all together into one place. 
 intro:
   heading: What is Veganbase?
   text: >

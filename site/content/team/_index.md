@@ -57,7 +57,7 @@ testimonials:
     quote: We believe that the future of the world is vegan.
   - author: 'Saki '
     quote: We want to make it happen as soon as possible.
-full_image: /img/mstile-310x310.png
+full_image: /img/sparrows-2759978_1920.jpg
 pricing:
   heading: ''
   description: ''

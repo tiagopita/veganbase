@@ -8,12 +8,14 @@ intro:
     - image: /img/about-direct-sourcing.jpg
       text: |
         Tiago
+
         Founder. Vegan warrior. Creator, designer and experienced entrepreneur
         making his vegan startup dream come true. Favourite animal - donkey.
         #fakemeat #soy #food #minimalism #simple
     - image: /img/cow-3678457_1920.jpg
       text: |
         Agi
+
         Founder. Vegan warrior. Life experienced veganism expert and gospeler.
         New in startups, fast learner. Favourite animal - dog.
         #animals #books #cooking #nature #simple
@@ -21,8 +23,9 @@ intro:
       text: >
         Vince
 
+
         Co founder. Rocker coder. Expertised in tech, curious beginner in the
-        vegan world. Favourite animal - Axolotl
+        vegan world. Favourite animal - axolotl.
 
         #rock #gamer #philosopher #freedom #mind
     - image: /img/illustrations-meeting-space.svg

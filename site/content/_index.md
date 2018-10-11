@@ -12,8 +12,8 @@ blurb:
     To build a strong vegan economy we need to connect and empower vegan
     businesses.
 
-    We want to promote vegan entrepreneurship and bring together vegan companies
-    so they can easily find each other and cooperate.
+    At Veganbase we want to promote vegan entrepreneurship and bring together
+    vegan companies so they can easily find each other and cooperate.
 
     We want plant based products to be easy to find and accessible, so we
     brought them all together into one place. 

@@ -17,7 +17,7 @@ intro:
         Agi
 
         Founder. Vegan warrior. Life experienced veganism expert and gospeler.
-        New in startups, fast learner. Favourite animal - dog.
+        Favourite animal - elephant. 
         #animals #books #cooking #nature #simple
     - image: /img/about-sustainable-farming.jpg
       text: >

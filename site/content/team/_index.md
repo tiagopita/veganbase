@@ -17,13 +17,14 @@ intro:
         Founder. Vegan warrior. Life experienced veganism expert and gospeler.
         New in startups, fast learner.
         #animals #books #cooking #nature #simple
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/about-sustainable-farming.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Vince
+
+        Co founder. Rocker coder. Expertised in tech, curious beginner in the
+        vegan world.
+
+        #rock #gamer #philosopher #freedom #mind
     - image: /img/illustrations-meeting-space.svg
       text: >
         We believe that good coffee has the power to bring people together.

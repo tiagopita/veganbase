@@ -28,13 +28,13 @@ intro:
         vegan world. Favourite animal - axolotl.
 
         #rock #gamer #philosopher #freedom #mind
-    - image: /img/illustrations-meeting-space.svg
+    - image: /img/blog-index.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Eduardo 
+
+
+        Business development strategist, fundraising expert and advisor.
+        Veganism enthusiast. Favourite animal - elephant. 
     - {}
   heading: ''
   description: |+

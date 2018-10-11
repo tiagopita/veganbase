@@ -1,26 +1,113 @@
 ---
-title: 'Veganbase Mission '
-date: 2017-01-04T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
-image: /img/blog-chemex.jpg
+title: ' Welcome to Veganbase, the first worldwide vegan platform. '
+date: 2018-04-30T22:00:00.000Z
+description: >2+
+   Welcome to Veganbase, the first worldwide vegan platform. 
+
+
+  Our mission is to empower vegans to succeed in building an integrated vegan
+  economy
+
+image: /img/advice-advise-advisor-7096.jpg
 ---
+We believe that vegan products and services are better for us and for our planet. That's why we made Veganbase, to bring them all into one place. 
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
 
-## The little secrets of Chemex brewing
+We want to empower and connect vegan businesses to cooperate with each other. That’s why  we created space for vegan companies and organisations.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+We believe that vegan economy is the future. 
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+We will  be adding more features to our platform. 
+
+Stay tuned!
+
+Why and how we do it?
+
+
+
+We aim to build a strong vegan economy by connecting and empowering vegan businesses.
+
+ We want to promote vegan entrepreneurship. We bring together vegan companies and businesses so they can easily find each other and cooperate. 
+
+We want plant based products to be easy to find and accessible, so we brought them all together into one place, Veganbase.com.
+
+We want to promote vegan lifestyle. That’s why we created a guide that will lead you to all the vegan places around the world and lifestyle magazine with articles created by our community.
+
+We care about the planet we live in. We believe that making veganism mainstream will help to address the world’s biggest social and environmental problems.
+
+
+
+
+
+
+
+What is Veganbase?
+
+Veganbase is an online community discovering, sharing and discussing the world’s best vegan products, places, services, businesses and lifestyle.
+
+At Veganbase you can easily discover vegan products.
+
+At Veganbase you can promote your vegan business and organisation
+
+Together we can help and inspire others to follow a vegan lifestyle
+
+Join us and help us building a vegan community platform for a better future.
+
+Become a member, add new products and places and collect points.
+
+ 
+
+How does it work?
+
+You can add your favourite products pr places to Veganbase and each time one is published, you will be awarded some Veganbase points.
+
+ 
+
+Lovin’ it
+
+
+
+When you see 💚 green love hearts around Veganbase, you can use them to show your love for products. This will help Veganbase draw more attention to the best products, and also rewards the people who discovered them.
+
+We’ll also keep track of the stuff you love, and make it easier for you to find later.
+
+ 
+
+Your wishlist
+
+
+
+Veganbase lets you add items to your wishlist. You can build up a list of things you want to try, and even share your list with others.
+
+We’ll also count how many people add things to their wishlists to help decide on product popularity. We plan to share this information with brands to encourage them to make their products available in more places.
+
+ 
+
+ 
+
+
+
+Join Veganbase today:
+
+Add your first product
+
+Browse the site using the tags to the left
+
+Use the Search bar to discover new Vegan products
+
+Visit the Homepage to see what’s hot right now
+
+
+
+If you notice something wrong, please let us know.
+
+
+
+Contact us: hello@veganbase.com
+
+We are constantly developing our services. 
+
+Stay tuned!

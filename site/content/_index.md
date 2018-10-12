@@ -27,7 +27,7 @@ intro:
     recommended by our community. Everything you need to know about vegan
     lifestyle is now in one place!
 products:
-  - text: 'Veganism is a beautiful responsible lifestyle. '
+  - text: 'Veganism is a responsible lifestyle. '
 values:
   heading: Why to invest on Veganbase?
   text: .

@@ -17,16 +17,17 @@ intro:
         #fakemeat #soy #food #minimalism #simple
     - image: /img/cutmypic.png
       text: >
-        Agi. Co-founder. Vegan warrior. Experienced veganism expert and
-        gospeler. Tech-fan. Cares about animals welfare. 
+        Agi. Co-founder. Vegan warrior. Tech - fan. Vegan lifestyle expert and
+        gospeler. Actvist.   
 
         Favourite animal - elephant. 
 
         #animals #books #cooking #nature #simple
     - image: /img/cutmypic3.png
       text: >
-        Vince. Co-founder. Rocker coder. Expertised in tech, curious beginner in
-        the vegan world. Favourite animal - axolotl.
+        Vince. Co-founder. Technology passionate. Explored many IT roles in
+        different projects. So far Veganbase is his favourite ;)   Favourite
+        animal - axolotl.
 
         #rock #gamer #philosopher #freedom #mind
     - image: /img/frog-540812_1920.jpg

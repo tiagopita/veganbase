@@ -6,26 +6,27 @@ description: Meet our team!
 intro:
   blurbs:
     - image: /img/cutmypic2.png
-      text: |
+      text: >
         Tiago.
-        Founder. Vegan warrior. Creator, designer and experienced entrepreneur
+
+        Co-founder. Vegan warrior. Creator, designer and experienced
+        entrepreneur
+
         making his vegan startup dream come true. Favourite animal - donkey.
+
         #fakemeat #soy #food #minimalism #simple
     - image: /img/cutmypic.png
       text: >
-        Agi. Founder. Vegan warrior. Experienced veganism expert and gospeler.
-        Tech-fan. Cares about animals welfare. 
+        Agi. Co-founder. Vegan warrior. Experienced veganism expert and
+        gospeler. Tech-fan. Cares about animals welfare. 
 
         Favourite animal - elephant. 
 
         #animals #books #cooking #nature #simple
     - image: /img/cutmypic3.png
       text: >
-        Vince
-
-
-        Co founder. Rocker coder. Expertised in tech, curious beginner in the
-        vegan world. Favourite animal - axolotl.
+        Vince. Co-founder. Rocker coder. Expertised in tech, curious beginner in
+        the vegan world. Favourite animal - axolotl.
 
         #rock #gamer #philosopher #freedom #mind
     - image: /img/frog-540812_1920.jpg

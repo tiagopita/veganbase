@@ -30,12 +30,10 @@ intro:
 
         #rock #gamer #philosopher #freedom #mind
     - image: /img/frog-540812_1920.jpg
-      text: >
+      text: |
         Eduardo 
 
-
-        Business development strategist, fundraising expert and advisor.
-        Veganism enthusiast. Favourite animal - elephant. 
+        Business development strategist, fundraising expert and advisor. 
     - text: ''
   heading: ''
   description: |+

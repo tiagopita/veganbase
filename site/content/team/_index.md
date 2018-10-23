@@ -7,17 +7,17 @@ intro:
   blurbs:
     - image: /img/cutmypic2.png
       text: |
-        Tiago
-        </br>
+        Tiago.
         Founder. Vegan warrior. Creator, designer and experienced entrepreneur
         making his vegan startup dream come true. Favourite animal - donkey.
         #fakemeat #soy #food #minimalism #simple
     - image: /img/cutmypic.png
-      text: |
-        Agi
+      text: >
+        Agi. Founder. Vegan warrior. Experienced veganism expert and gospeler.
+        Tech-fan. Cares about animals welfare. 
 
-        Founder. Vegan warrior. Life experienced veganism expert and gospeler.
         Favourite animal - elephant. 
+
         #animals #books #cooking #nature #simple
     - image: /img/cutmypic3.png
       text: >
